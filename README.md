@@ -1,3 +1,44 @@
+# Work Details
+
+# Course Library
+
+Course Library is a web application that provides users with access to a variety of educational courses in different domains.
+
+## Features
+
+- Browse courses by category
+- View detailed information about each course
+- Enroll in courses and track your progress
+- Search for courses based on keywords
+
+## Technologies Used
+
+- React.js
+- Material-UI
+- TypeScript
+- HTML5
+- CSS3
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/course-library.git
+```
+2. Install dependencies:
+```bash
+cd course-library
+npm install
+```
+3. Run the Development Server
+```bash
+npm start
+```
+4. Open your browser and navigate to http://localhost:3000 to view the application.
+Contributing
+Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +109,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
